@@ -1,3 +1,5 @@
 Select random alien-location...
 Aliens are found on planets..
 Planets: mars, Jupiter
+
+Update latest details of mars and jupiter.
